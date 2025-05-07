@@ -20,8 +20,10 @@ Install them with:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## ▶️ Usage
 
 ```bash
 python image_to_video.py
+```
